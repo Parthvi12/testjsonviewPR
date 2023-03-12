@@ -3874,9 +3874,9 @@
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [
-                "lst_user.selectedItem.id",
                 "lst_user.pageNo - 1",
-                "lst_user.pageSize"
+                "lst_user.pageSize",
+                "lst_user.selectedItem.id"
               ],
               "timeoutInMillisecond": 10000
             }
