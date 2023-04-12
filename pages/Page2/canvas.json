@@ -29,9 +29,7 @@
         "layoutOnLoadActions": [],
         "validOnPageLoadActions": true,
         "id": "Page2",
-        "deleted": false,
-        "policies": [],
-        "userPermissions": []
+        "deleted": false
       }
     ],
     "userPermissions": [],

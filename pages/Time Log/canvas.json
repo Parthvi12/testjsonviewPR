@@ -3885,9 +3885,7 @@
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "Time Log",
-        "deleted": false,
-        "policies": [],
-        "userPermissions": []
+        "deleted": false
       }
     ],
     "userPermissions": [],
